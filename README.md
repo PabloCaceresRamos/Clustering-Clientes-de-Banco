@@ -11,7 +11,7 @@ Dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
 **K-MEANS**
 
-## Método para la reducción de variables
+## Método para la reducción de características
 
 **PCA**
 
